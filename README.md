@@ -1,2 +1,2 @@
-# ebiten-classic
-ebiten-classic template
+# gomokupot
+gomokupot

@@ -5,5 +5,5 @@ import (
 )
 
 func (g *Game) Draw(screen *ebiten.Image) {
-
+	g.Scene.Draw(screen)
 }

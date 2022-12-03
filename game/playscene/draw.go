@@ -4,6 +4,6 @@ import (
 	"github.com/hajimehoshi/ebiten/v2"
 )
 
-func (g *Game) Update() error {
-	return nil
+func (g *PScene) Draw(screen *ebiten.Image) {
+
 }

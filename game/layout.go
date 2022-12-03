@@ -1,11 +1,7 @@
 package game
 
-import (
-	"github.com/hajimehoshi/ebiten/v2"
-)
-
 func (g *Game) Layout(outsideWidth, outsideHeight int) (screenWidth, screenHeight int) {
-	screenWidth = {{.GameWidth}}
-	screenHeight = {{.GameHeight}}
+	screenWidth = 640
+	screenHeight = 480
 	return
 }
